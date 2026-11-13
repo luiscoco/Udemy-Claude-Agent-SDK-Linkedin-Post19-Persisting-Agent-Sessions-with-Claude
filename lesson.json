@@ -1,0 +1,15 @@
+{
+  "lesson": 18,
+  "title": "Persisting Agent Sessions with Claude",
+  "application": "Session Save and Resume",
+  "purpose": "Save a real SDK session identifier and resume it in a separate execution; keep offline fixture identifiers separate.",
+  "exercise": "Run the save input, then --input data/resume.json in another process. Remove the state file and confirm resume fails clearly.",
+  "source_topics": [
+    "01-What-Actually-Persists.png",
+    "02-Capture-the-Session-ID.png",
+    "03-Save-the-ID-Beyond-the-Process.png",
+    "04-Resume-in-a-Separate-Execution.png",
+    "05-Verify-Conversation-Continuity.png",
+    "06-Choose-Resume-Fork-or-Fresh.png"
+  ]
+}

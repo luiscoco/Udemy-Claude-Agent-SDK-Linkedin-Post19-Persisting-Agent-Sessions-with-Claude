@@ -1,0 +1,13 @@
+{
+  "lesson": 18,
+  "application": "Session Save and Resume",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "action": "save",
+    "answer": "I will remember Python.",
+    "state_file": "<application>\\state\\session.json",
+    "history_note": "The identifier is not the SDK transcript."
+  },
+  "measured_cost_usd": null
+}
